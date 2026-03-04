@@ -1,0 +1,6 @@
+{
+    "claudeCode.preferredLocation": "panel",
+    "chat.viewSessions.orientation": "stacked",
+    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "workbench.colorTheme": "Visual Studio Light - C++"
+}
